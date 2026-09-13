@@ -7,8 +7,8 @@ export const config = {
 export function middleware(req) {
   const auth = req.headers.get("authorization");
 
-  const user = process.env.romaindevun;
-  const pass = process.env.123romaindevun;
+  const user = process.env.HUB_USER;
+  const pass = process.env.HUB_PASS;
 
   if (auth) {
     const [scheme, encoded] = auth.split(" ");
