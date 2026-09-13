@@ -1,9 +1,9 @@
 // Ajoute / modifie tes applications ici
 module.exports = [
   {
-    name: "Mon App 1",
+    name: "Gainable",
     description: "Description courte de l'application",
-    url: "https://mon-app-1.vercel.app",
+    url: "https://gainable-seven.vercel.app/",
   },
   {
     name: "Mon App 2",
