@@ -6,9 +6,9 @@ module.exports = [
     url: "https://gainable-seven.vercel.app/",
   },
   {
-    name: "Mon App 2",
+    name: "Configurateur 3D",
     description: "Description courte de l'application",
-    url: "https://mon-app-2.vercel.app",
+    url: "https://plenum-umber.vercel.app",
   },
   {
     name: "Mon App 3",
