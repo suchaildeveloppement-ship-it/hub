@@ -11,8 +11,8 @@ module.exports = [
     url: "https://plenum-umber.vercel.app",
   },
   {
-    name: "Mon App 3",
+    name: "Multi variante",
     description: "Description courte de l'application",
-    url: "https://mon-app-3.vercel.app",
+    url: "https://murao.vercel.app/",
   },
 ];
